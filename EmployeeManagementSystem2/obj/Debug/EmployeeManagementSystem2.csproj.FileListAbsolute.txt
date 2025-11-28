@@ -1,0 +1,10 @@
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\bin\Debug\EmployeeManagementSystem2.exe.config
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\bin\Debug\EmployeeManagementSystem2.exe
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\bin\Debug\EmployeeManagementSystem2.pdb
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\obj\Debug\EmployeeManagementSystem2.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\obj\Debug\EmployeeManagementSystem2.Form1.resources
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\obj\Debug\EmployeeManagementSystem2.Properties.Resources.resources
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\obj\Debug\EmployeeManagementSystem2.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\obj\Debug\EmployeeManagementSystem2.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\obj\Debug\EmployeeManagementSystem2.exe
+C:\Users\ibrah\source\repos\EmployeeManagementSystem2\obj\Debug\EmployeeManagementSystem2.pdb
