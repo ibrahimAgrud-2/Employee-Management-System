@@ -2,7 +2,7 @@
 
 # 👨‍💼 Employee Management System
 
-A simple Windows Forms application for managing employee records. This application allows users to add, view, update, and remove employee information. [Click here to watch the YouTube video for this project](https://youtu.be/PJHCH2PxHZI)
+A simple Windows Forms application for managing employee records. This application allows users to add, view, update, and remove employee information. [Click here to watch the YouTube video for this project]([https://youtu.be/PJHCH2PxHZI](https://www.youtube.com/watch?v=PP9bcHPwzMo))
 
 ------
 
