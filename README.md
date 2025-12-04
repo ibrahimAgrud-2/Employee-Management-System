@@ -22,7 +22,7 @@ A simple Windows Forms application for managing employee records. This applicati
 
 
 
-#### 🗑️ Remove Employee Screen
+#### Remove Employee Screen
 
 
 
